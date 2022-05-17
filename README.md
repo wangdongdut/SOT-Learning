@@ -11,4 +11,4 @@
 
 **[深度大脑](https://space.bilibili.com/9456738)：[从零开始的单目标跟踪算法世界-B站](https://www.bilibili.com/video/BV1WK4y1C7JG)**
 
-**[AITracker]
+**[AITracker](https://space.bilibili.com/8948069)：[B站](https://space.bilibili.com/8948069)**
