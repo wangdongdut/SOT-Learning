@@ -13,4 +13,4 @@
 
 **[AITracker](https://space.bilibili.com/8948069)：[B站](https://space.bilibili.com/8948069)**
 
-**[人工智能前沿讲习](https://bbs.sffai.com/)跟踪问题：[B站](https://space.bilibili.com/388690539/search/video?keyword=%E8%B7%9F%E8%B8%AA)**
+**[人工智能前沿讲习](https://bbs.sffai.com/)(跟踪问题)：[B站](https://space.bilibili.com/388690539/search/video?keyword=%E8%B7%9F%E8%B8%AA)**
