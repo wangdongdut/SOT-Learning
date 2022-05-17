@@ -10,7 +10,19 @@
      | KeepTrack (ICCV21)        | 0.709  |  18 (RTX 2080Ti)  |   [Paper](https://arxiv.org/abs/2103.16556)/[Code](https://github.com/visionml/pytracking) |  
      | **STARK (ICCV21)**        | 0.701  |  32 (Tesla V100)  |   [Paper](https://arxiv.org/abs/2103.17154)/[Code](https://github.com/researchmm/Stark) |  
      | **LTMU (CVPR20)**         | 0.697  |  13 (RTX 2080Ti)  |   [Paper](https://arxiv.org/abs/2004.00305)/[Code](https://github.com/Daikenan/LTMU) |
-
+     | **LT_DSE**                | 0.695  | N/A  |   N/A |
+     | **LTMU_B**                | 0.691  | N/A  |   [Paper](https://arxiv.org/abs/2004.00305)/[Code](https://github.com/Daikenan/LTMU) | 
+     | DMTrack (CVPR21)          | 0.687  |  31 (Titan XP)    |   [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Distractor-Aware_Fast_Tracking_via_Dynamic_Convolutions_and_MOT_Philosophy_CVPR_2021_paper.pdf)/[Project](https://github.com/hqucv/dmtrack)  |
+     | Megtrack                  | 0.687  | N/A  |   N/A |
+     | CLGS                      | 0.674  | N/A  |   N/A |
+     | SiamDW_LT                 | 0.665  | N/A  |   N/A |
+     | **SPLT (ICCV19)**:star2:  | 0.587  |  26 (GTX 1080Ti)  |   [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Skimming-Perusal_Tracking_A_Framework_for_Real-Time_and_Robust_Long-Term_Tracking_ICCV_2019_paper.pdf)/[Code](https://github.com/iiau-tracker/SPLT) |
+     | mbdet                     | 0.567  | N/A  |   N/A |    
+     | SiamRPNsLT                | 0.556  | N/A  |   N/A |     
+     | Siamfcos-LT               | 0.520  | N/A  |   N/A |
+     | CooSiam                   | 0.508  | N/A  |   N/A |    
+     | ASINT                     | 0.505  | N/A  |   N/A |     
+     | FuCoLoT                   | 0.411  | N/A  |   N/A |
 
 
 **[VALSE_Webinar](https://space.bilibili.com/562085182/)(跟踪问题)：[B站视频](https://space.bilibili.com/562085182/search/video?keyword=%E8%B7%9F%E8%B8%AA)**
