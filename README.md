@@ -18,3 +18,5 @@
 **[人工智能前沿讲习](https://bbs.sffai.com/)(跟踪问题)：[B站](https://space.bilibili.com/388690539/search/video?keyword=%E8%B7%9F%E8%B8%AA)**
 
 **[YaqiLYU(知乎)](https://www.zhihu.com/people/YaqiLYU)：[深度学习和目标跟踪(知乎专栏)](https://www.zhihu.com/column/DCF-tracking)**
+
+**[NTRのSAO年(B站)](https://space.bilibili.com/5567932)：[B站专栏](https://space.bilibili.com/5567932/article)**
