@@ -5,8 +5,8 @@
 
 * **代码框架**
      | **框架**              | **链接**    | **简介**    |
-     |:-----------           |:----------------:|:----------------|
-     | **pysot               | https://github.com/STVIR/pysot          |                 |
+     |:-----------           |:----------------|:----------------|
+     | **pysot**             | https://github.com/STVIR/pysot          |                 |
      | **pytracking**        | https://github.com/visionml/pytracking  |                 |
 
 * **综述文章**
