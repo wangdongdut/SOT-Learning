@@ -15,7 +15,7 @@
      | ***Visual Tracking: An Experimental Survey.*** <br /> **IEEE TPAMI, 2014.**  Arnold W. M. Smeulders, Dung Manh Chu, Rita Cucchiara, et al.   | [[Paper](https://ieeexplore.ieee.org/document/6671560)]    |     |   
      | ***Sparse Coding Based Visual Tracking: Review and Experimental Comparison.*** <br /> **PR, 2013**.  Shengping Zhang, Hongxun Yao, Xin Sun, Xiusheng Lu.   | [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320312004396)]    |     |   
      | ***A Survey of Appearance Models in Visual Object Tracking.*** <br /> **ACM TIST, 2013.** Xi Li, Weiming Hu, Chunhua Shen, Zhongfei Zhang, et al.   | [[Paper](https://dl.acm.org/doi/10.1145/2508037.2508039)]   |     |  
-     | ***Object Tracking: A Survey.*** <br /> **ACM CS, 2006.**  lper Yilmaz, Omar Javed, Mubarak Shah.   |  [[Paper](https://dl.acm.org/doi/10.1145/1177352.1177355)]   |远古时期跟踪的综述。(1) 从目标表示角度分类：中心点，多关键点，矩形框，椭圆框，多块结构，骨架，边界控制点，边界轮廓，剪影（和Mask类似）； **后来矩形框和分割Mask成为目标表示的主流** (2) 从跟踪算法的角度分类：点跟踪，核跟踪（代表性算法Meanshift, KLT, Eigentracking, SCM），剪影跟踪; **后来点跟踪更多发展到了特征点跟踪，应用于SLAM等领域；核跟踪成为SOT的主流（虽然叫法不同）；剪影跟踪发展成为了基于分割的跟踪或视频分割任务。**    |
+     | ***Object Tracking: A Survey.*** <br /> **ACM CS, 2006.**  lper Yilmaz, Omar Javed, Mubarak Shah.   |  [[Paper](https://dl.acm.org/doi/10.1145/1177352.1177355)]   |远古时期跟踪的综述。(1) 从目标表示角度分类：中心点，多关键点，矩形框，椭圆框，多块结构，骨架，边界控制点，边界轮廓，剪影（和Mask类似）； **后来矩形框和分割Mask成为目标表示的主流** (2) 从跟踪算法的角度分类：点跟踪，核跟踪（代表性算法Meanshift, KLT, Eigentracking, SCM），剪影跟踪; **后来点跟踪更多发展为特征点跟踪，应用于SLAM等领域；核跟踪成为SOT的主流（虽然叫法不同）；剪影跟踪发展成为了基于分割的跟踪或视频分割任务。**    |
 
 * **在线资源**
 
