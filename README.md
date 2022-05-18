@@ -7,12 +7,12 @@
 
      | **论文**              | **链接**    | **内容摘要**    |
      |:-----------           |:----------------:|:----------------:|
-     | Deep Learning for Visual Tracking: A Comprehensive Survey.  <br /> IEEE TITS, 2021. Seyed Mojtaba Marvasti-Zadeh, Li Cheng, Hossein Ghanei-Yakhdan, Shohreh Kasae.     |  [[Paper](https://ieeexplore.ieee.org/document/9339950)]   |     |  
-     | Handcrafted and Deep Trackers: Recent Visual Object Tracking Approaches and Trends. <br />  ACM CS, 2019. Mustansar Fiaz, Arif Mahmood, Sajid Javed, Soon Ki Jung.     |  [[Paper](https://dl.acm.org/doi/abs/10.1145/3309665)]   |     |  
-     | Deep Visual Tracking: Review and Experimental Comparison. <br />  PR, 2018. Peixia Li, Dong Wang, Lijun Wang, Huchuan Lu.    |  [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320317304612)]   |     |  
-     | Visual Tracking: An Experimental Survey. <br /> IEEE TPAMI, 2014.  Arnold W. M. Smeulders, Dung Manh Chu, Rita Cucchiara, et al.   | [[Paper](https://ieeexplore.ieee.org/document/6671560)]    |     |   
-     | A Survey of Appearance Models in Visual Object Tracking. <br /> ACM TIST, 2013. Xi Li, Weiming Hu, Chunhua Shen, Zhongfei Zhang, et al.   | [[Paper](https://dl.acm.org/doi/10.1145/2508037.2508039)]   |     |  
-     | Object Tracking: A Survey. <br /> lper Yilmaz, Omar Javed, Mubarak Shah.  <ACM CS, 2006.   |  [[Paper](https://dl.acm.org/doi/10.1145/1177352.1177355)]   |     |
+     | **Deep Learning for Visual Tracking: A Comprehensive Survey.**  <br /> IEEE TITS, 2022. Seyed Mojtaba Marvasti-Zadeh, Li Cheng, Hossein Ghanei-Yakhdan, Shohreh Kasae.     |  [[Paper](https://ieeexplore.ieee.org/document/9339950)]   |     |  
+     | **Handcrafted and Deep Trackers: Recent Visual Object Tracking Approaches and Trends.** <br />  ACM CS, 2019. Mustansar Fiaz, Arif Mahmood, Sajid Javed, Soon Ki Jung.     |  [[Paper](https://dl.acm.org/doi/abs/10.1145/3309665)]   |     |  
+     | **Deep Visual Tracking: Review and Experimental Comparison.** <br />  PR, 2018. Peixia Li, Dong Wang, Lijun Wang, Huchuan Lu.    |  [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320317304612)]   |     |  
+     | **Visual Tracking: An Experimental Survey.** <br /> IEEE TPAMI, 2014.  Arnold W. M. Smeulders, Dung Manh Chu, Rita Cucchiara, et al.   | [[Paper](https://ieeexplore.ieee.org/document/6671560)]    |     |   
+     | **A Survey of Appearance Models in Visual Object Tracking.** <br /> ACM TIST, 2013. Xi Li, Weiming Hu, Chunhua Shen, Zhongfei Zhang, et al.   | [[Paper](https://dl.acm.org/doi/10.1145/2508037.2508039)]   |     |  
+     | **Object Tracking: A Survey.** <br /> lper Yilmaz, Omar Javed, Mubarak Shah.  <ACM CS, 2006.   |  [[Paper](https://dl.acm.org/doi/10.1145/1177352.1177355)]   |     |
 
 * **在线资源**
 
