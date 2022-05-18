@@ -7,7 +7,7 @@
 
      | **论文**              | **链接**    | **内容摘要**    |
      |:-----------           |:----------------:|:----------------:|
-     | *Deep Learning for Visual Tracking: A Comprehensive Survey.*  <br /> <u>IEEE TITS, 2022.</u> Seyed Mojtaba Marvasti-Zadeh, Li Cheng, Hossein Ghanei-Yakhdan, Shohreh Kasae.     |  [[Paper](https://ieeexplore.ieee.org/document/9339950)]   |     |  
+     | *Deep Learning for Visual Tracking: A Comprehensive Survey.*  <br /> **IEEE TITS, 2022.** Seyed Mojtaba Marvasti-Zadeh, Li Cheng, Hossein Ghanei-Yakhdan, Shohreh Kasae.     |  [[Paper](https://ieeexplore.ieee.org/document/9339950)]   |     |  
      | *Handcrafted and Deep Trackers: Recent Visual Object Tracking Approaches and Trends.* <br />  **ACM CS, 2019.** Mustansar Fiaz, Arif Mahmood, Sajid Javed, Soon Ki Jung.     |  [[Paper](https://dl.acm.org/doi/abs/10.1145/3309665)]   |     |  
      | *Deep Visual Tracking: Review and Experimental Comparison.* <br />  **PR, 2018.** Peixia Li, Dong Wang, Lijun Wang, Huchuan Lu.    |  [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320317304612)]   |     |  
      | *Visual Tracking: An Experimental Survey.* <br /> **IEEE TPAMI, 2014.**  Arnold W. M. Smeulders, Dung Manh Chu, Rita Cucchiara, et al.   | [[Paper](https://ieeexplore.ieee.org/document/6671560)]    |     |   
