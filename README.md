@@ -6,7 +6,7 @@
 
 * **代码框架**
      | **框架**              | **链接**    | **简介**    |
-     |:-----------           |:----------------|:----------------|
+     |:-----------           |:----------------|:----------------:|
      | **pysot**             | https://github.com/STVIR/pysot             | STVIR组提供的跟踪框架，主要包括SiamFC，SiamRPN，DaSiamRPN，SiamRPN++，SiamMask等算法。|     
      | **pytracking**        | https://github.com/visionml/pytracking     | visionml组提供的跟踪框架，主要包括pyECO, ATOM, Dimp, PrDimp, KeepTrack等算法。|     
      | **TracKit**           | https://github.com/researchmm/TracKit      | MSRA-MM组提供的跟踪框架，主要包括SiamDW，Ocean跟踪算法。|
