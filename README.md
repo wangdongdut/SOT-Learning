@@ -30,6 +30,18 @@
 
 * **历年[VOT](https://www.votchallenge.net/)冠军算法**
 
+     | **年份**              | **赛道**    | **简介**    |
+     |:-----------           |:----------------|:----------------|    
+     | [**2021**](https://www.votchallenge.net/vot2021/)  | | |     
+     | [**2020**](https://www.votchallenge.net/vot2020/)  | | |
+     | [**2019**](https://www.votchallenge.net/vot2019/)  | | |
+     | [**2018**](https://www.votchallenge.net/vot2018/)  | | |
+     | [**2017**](https://www.votchallenge.net/vot2017/)  | | |     
+     | [**2016**](https://www.votchallenge.net/vot2016/)  | | |     
+     | [**2015**](https://www.votchallenge.net/vot2015/)  | | |
+     | [**2014**](https://www.votchallenge.net/vot2014/)  | | |
+     | [**2013**](https://www.votchallenge.net/vot2013/)  | | |
+
 
 * **在线学习/报告资源**
 
