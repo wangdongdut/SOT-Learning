@@ -31,7 +31,7 @@
 * **历年[VOT](https://www.votchallenge.net/)冠军算法**
 
      | **年份**              | **赛道**    | **冠军简介**    |
-     |:-----------           |:----------------|:----------------:|    
+     |:-----------           |:----------------|:----------------|    
      | [**VOT2021**](https://www.votchallenge.net/vot2021/)  | | |     
      | [**VOT2020**](https://www.votchallenge.net/vot2020/)  | | |
      | [**VOT2019**](https://www.votchallenge.net/vot2019/)  | | |
