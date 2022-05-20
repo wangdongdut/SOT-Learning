@@ -36,11 +36,13 @@
      | [**VOT2020**](https://www.votchallenge.net/vot2020/)  | | |
      | [**VOT2019**](https://www.votchallenge.net/vot2019/)  | | |
      | [**VOT2018**](https://www.votchallenge.net/vot2018/)  | | |
-     | [**VOT2017**](https://www.votchallenge.net/vot2017/)  | | |     
-     | [**VOT2016**](https://www.votchallenge.net/vot2016/)  | | |     
-     | [**VOT2015**](https://www.votchallenge.net/vot2015/)  | | |
-     | [**VOT2014**](https://www.votchallenge.net/vot2014/)  | | |
-     | [**VOT2013**](https://www.votchallenge.net/vot2013/)  | | |
+     | [**VOT2017**](https://www.votchallenge.net/vot2017/)  | | |   
+     | [**VOT2016**](https://www.votchallenge.net/vot2016/)  | TIR | |  
+     | [**VOT2016**](https://www.votchallenge.net/vot2016/)  | ST | | 
+     | [**VOT2015**](https://www.votchallenge.net/vot2015/)  | TIR | |
+     | [**VOT2015**](https://www.votchallenge.net/vot2015/)  | ST | |
+     | [**VOT2014**](https://www.votchallenge.net/vot2014/)  | ST | |
+     | [**VOT2013**](https://www.votchallenge.net/vot2013/)  | ST | |
 
 
 * **在线学习/报告资源**
