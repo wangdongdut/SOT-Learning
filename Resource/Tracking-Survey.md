@@ -1,4 +1,6 @@
-    |:-----------           |:----------------:|:----------------|
+* **跟踪综述**        
+     | **论文**              | **链接**    | **内容摘要**    |
+     |:-----------           |:----------------:|:----------------|
      | ***Visual Object Tracking with Discriminative Filters and Siamese Networks: A Survey and Outlook.*** <br /> **Arxiv, 2021.** Sajid Javed, Martin Danelljan, Fahad Shahbaz Khan, et al. | [[Paper](https://arxiv.org/abs/2112.02838)]   |  **:star2:非常详尽的判决性滤波和深度孪生网络方面的综述**，大量的实验评估。SiamR-CNN基本上算是深度孪生卷积网络类跟踪算法的精度巅峰，但于2021年被简单的Transformer跟踪算法超越。*2021年开始，SOT全面进入Transformer时代。* | 
      | ***Deep Learning for Visual Tracking: A Comprehensive Survey.*** <br /> **IEEE TITS, 2022.** Seyed Mojtaba Marvasti-Zadeh, Li Cheng, Hossein Ghanei-Yakhdan, Shohreh Kasae.     |  [[Paper](https://ieeexplore.ieee.org/document/9339950)]   |  **:star2:非常详尽的深度学习类跟踪算法综述**， 从网络结构，网络利用，网络训练，网络目标，网络输出，深度学习与相关滤波，长时跟踪，在线更新跟踪等多个维度详尽地综述了2013-2020年的深度学习类跟踪算法。<br /> *2019-2020时的深度学习类跟踪相关已显著超越相关滤波结合深度特征类算法，SOT已彻底全面步入深度学习时代。* |   
      | ***Handcrafted and Deep Trackers: Recent Visual Object Tracking Approaches and Trends.*** <br />  **ACM CS, 2019.** Mustansar Fiaz, Arif Mahmood, Sajid Javed, Soon Ki Jung.     |  [[Paper](https://dl.acm.org/doi/abs/10.1145/3309665)]   |  主要综述了2018年之前的相关滤波类算法和非相关滤波类算法，对2015-2018年提出的相关滤波类算法综述较为详尽。 *深度学习类跟踪算法更推荐看《Deep Learning for Visual Tracking: A Comprehensive Survey》*  |  
