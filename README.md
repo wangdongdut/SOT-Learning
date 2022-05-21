@@ -33,7 +33,7 @@
 * **历年[VOT](https://www.votchallenge.net/)冠军算法**
     
      * ST：短时跟踪，也被称为Main Challege；RT：实时跟踪，要求算法要能跟上视频流；TIR：热红外；RGB-T：RGB彩色+热红外；LT：强调目标消失再出现，需要给出跟踪结果的置信值；RGBD：RGB彩色+深度
-     * VOT竞赛冠军方案中主要涉及的跟踪模型：STARK(ICCV2021)，TransT(CVPR2021)，AlphaRefine(CVPR2021)，RPT(ICCVW2021)，Meta-Updater(CVPR2020), Dimp(ICCV2019), ATOM(CVPR2021), SiamMask(CVPR2019), SiamRPN++(CVPR2019), SiamDW(CVPR2019)，SPLT(ICCV2019)，SiamRPN(CVPR2018)，RT-MDNet(ECCV2018)，DSLT(PRL2018)，MDNet(CVPR2016)，SiamFC(ECCVW2016)，EBT(CVPR2016)，KCF(TPAMI2015)，PST(ICCV2015)，DSST(BMVC2014), Struck(CVPR2011)。
+     * VOT竞赛冠军方案中主要涉及的跟踪模型：STARK(ICCV2021)，TransT(CVPR2021)，AlphaRefine(CVPR2021)，RPT(ICCVW2021)，Meta-Updater(CVPR2020), Dimp(ICCV2019), ATOM(CVPR2021), SiamMask(CVPR2019), SiamRPN++(CVPR2019), SiamDW(CVPR2019)，SPLT(ICCV2019)，SiamRPN(CVPR2018)，RT-MDNet(ECCV2018)，DSLT(PRL2018)，MDNet(CVPR2016)，SiamFC(ECCVW2016)，EBT(CVPR2016)，KCF(TPAMI2015)，PST(ICCV2015)，DSST(BMVC2014)，Struck(CVPR2011)。
      
      | **年份**              | **赛道**    | **冠军简介**    |
      |:-----------           |:----------------|:----------------|    
