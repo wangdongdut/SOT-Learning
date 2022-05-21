@@ -1,4 +1,5 @@
-* **跟踪综述**        
+* **跟踪综述**     
+   
      | **论文**              | **链接**    | **内容摘要**    |
      |:-----------           |:----------------:|:----------------|
      | ***Visual Object Tracking with Discriminative Filters and Siamese Networks: A Survey and Outlook.*** <br /> **Arxiv, 2021.** Sajid Javed, Martin Danelljan, Fahad Shahbaz Khan, et al. | [[Paper](https://arxiv.org/abs/2112.02838)]   |  **:star2:非常详尽的判决性滤波和深度孪生网络方面的综述**，大量的实验评估。SiamR-CNN基本上算是深度孪生卷积网络类跟踪算法的精度巅峰，但于2021年被简单的Transformer跟踪算法超越。*2021年开始，SOT全面进入Transformer时代。* | 
