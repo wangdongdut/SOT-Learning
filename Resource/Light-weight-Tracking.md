@@ -18,9 +18,9 @@
      | HCAT                 | 59.1  | 76.6 | 65.3 |        
      | E.T.Track            | 59.1  | 70.6 | - |      
      | FEAR                 | 57.9 | - | 64.5 |  
-     | STARK-Lightning      |  |  |  |  
-     | LightTrack           |  |  |  |     
-     | ECO-HC               |  |  |  |  
+     | STARK-Lightning      | | | |  
+     | LightTrack           | 53.8 | 72.5 | 61.1 |      
+     | ECO-HC               | 32.4 | 55.4 | 31.6 |  
      | SiamFC               |  |  |  | 
 
 # Light-weight Backbone
