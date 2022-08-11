@@ -1,4 +1,4 @@
-# Paper
+# Light-weight Backbone
 
 * **LeViT:** Benjamin Graham, Alaaeldin El-Nouby, Hugo Touvron, Pierre Stock, Armand Joulin, Hervé Jégou, Matthijs Douze. LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference. ICCV, 2021. [[Paper](https://arxiv.org/pdf/2104.01136.pdf)][[Code](https://github.com/apple/ml-cvnets)]
 *  **LVT:** Chenglin Yang, Yilin Wang, Jianming Zhang, He Zhang, Zijun Wei, Zhe Lin, Alan Yuille. Lite Vision Transformer with Enhanced Self-Attention. CVPR, 2022. [[Paper](https://arxiv.org/pdf/2112.10809.pdf)][[Code](https://github.com/Chenglin-Yang/LVT)] 
