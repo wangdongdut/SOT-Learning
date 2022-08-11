@@ -1,9 +1,6 @@
-* **Light-Weight CNN**
+* **Paper**
 
-
-* **Light-Weight CNN+VIT**
-
-* **Light-Weight VIT**
+  * XXXXXXXXXX
 
 
 
