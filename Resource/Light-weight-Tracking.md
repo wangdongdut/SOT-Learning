@@ -28,3 +28,4 @@
 
 # Reference
 * **Ultimate-Awesome-Transformer-Attention:** https://github.com/cmhungsteve/Awesome-Transformer-Attention
+* **Efficient-AI-Backbones:** https://github.com/huawei-noah/Efficient-AI-Backbones
