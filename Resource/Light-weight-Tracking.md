@@ -21,7 +21,7 @@
      | STARK-Lightning      | 58.6| - | - |  
      | LightTrack           | 53.8 | 72.5 | 61.1 |      
      | ECO-HC               | 32.4 | 55.4 | 31.6 |  
-     | SiamFC               |  |  |  | 
+     | SiamFC               | - | - | - | 
 
 # Light-weight Backbone
 
