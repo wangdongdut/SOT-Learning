@@ -3,7 +3,9 @@
 * **LightTrack:** Bin Yan, Houwen Peng, Kan Wu, Dong Wang, Jianlong Fu, Huchuan Lu. LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search. CVPR, 2021. [[Paper](https://arxiv.org/pdf/2104.14545.pdf)][[Code](https://github.com/researchmm/LightTrack)] 
 * **FEAR:** Vasyl Borsuk, Roman Vei, Orest Kupyn, Tetiana Martyniuk, Igor Krashenyi, Jiři Matas. FEAR: Fast, Efficient, Accurate and Robust Visual Tracker. ECCV, 2022. [[Paper](https://arxiv.org/pdf/2112.07957.pdf)][[Code](https://github.com/PinataFarms/FEARTracker)] 
 * **E.T.Track:** Philippe Blatter, Menelaos Kanakis, Martin Danelljan, Luc Van Gool. Efficient Visual Tracking with Exemplar Transformers. Arxiv, 2022. [[Paper](https://arxiv.org/pdf/2112.07957.pdf)][[Code]()] 
-* **HCAT:** Xin Chen, Dong Wang, Dongdong Li, Huchuan Lu. Efficient Visual Tracking via Hierarchical Cross-Attention Transformer. ECCVW, 2022. [[Paper](https://arxiv.org/pdf/2203.13537.pdf)][[Code](https://github.com/chenxin-dlut/HCAT)]  
+* **HCAT:** Xin Chen, Dong Wang, Dongdong Li, Huchuan Lu. Efficient Visual Tracking via Hierarchical Cross-Attention Transformer. ECCVW, 2022. [[Paper](https://arxiv.org/pdf/2203.13537.pdf)][[Code](https://github.com/chenxin-dlut/HCAT)] 
+* **Others:** 
+  * **NanoTrack:** https://github.com/HonglinChu/SiamTrackers/tree/master/NanoTrack
 
 # Light-weight Backbone
 
