@@ -1,7 +1,7 @@
 # Light-weight Tracking
 
 * **SiamFC:** Luca Bertinetto, Jack Valmadre, João F. Henriques, Andrea Vedaldi, Philip H. S. Torr. Fully-Convolutional Siamese Networks for Object Tracking. ECCVW, 2016. [[Paper](https://arxiv.org/pdf/1606.09549.pdf)][[Project](https://www.robots.ox.ac.uk/~luca/siamese-fc.html)][[PySOTCode](https://github.com/STVIR/pysot)] 
-* **ECO-HC:** 
+* **ECO-HC:** Martin Danelljan, Goutam Bhat, Fahad Shahbaz Khan, Michael Felsberg. ECO: Efficient Convolution Operators for Tracking. CVPR, 2017. [[Paper](https://arxiv.org/pdf/2103.17154.pdf)][[Code](https://github.com/visionml/pytracking)]
 * **LightTrack:** Bin Yan, Houwen Peng, Kan Wu, Dong Wang, Jianlong Fu, Huchuan Lu. LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search. CVPR, 2021. [[Paper](https://arxiv.org/pdf/2104.14545.pdf)][[Code](https://github.com/researchmm/LightTrack)] 
 * **STARK-Lightning:** Bin Yan, Houwen Peng, Jianlong Fu, Dong Wang, Huchuan Lu. Learning Spatio-Temporal Transformer for Visual Tracking. ICCV, 2021. [[Paper](https://arxiv.org/pdf/2103.17154.pdf)][[Code](https://github.com/researchmm/Stark)]
 * **FEAR:** Vasyl Borsuk, Roman Vei, Orest Kupyn, Tetiana Martyniuk, Igor Krashenyi, Jiři Matas. FEAR: Fast, Efficient, Accurate and Robust Visual Tracker. ECCV, 2022. [[Paper](https://arxiv.org/pdf/2112.07957.pdf)][[Code](https://github.com/PinataFarms/FEARTracker)] 
