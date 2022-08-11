@@ -11,6 +11,14 @@
   * **NanoTrack:** https://github.com/HonglinChu/SiamTrackers/tree/master/NanoTrack
   * **让视觉目标跟踪在移动端起飞[YaqiLYU]：** [[一](https://zhuanlan.zhihu.com/p/416413600)], [[二](https://zhuanlan.zhihu.com/p/416754498)], [[三](https://zhuanlan.zhihu.com/p/419900331)]
 
+* **Benchmark Results**
+
+     | Tracker              | LaSOT (AUC)   | TrackingNet (AUC) | GOT-10K (AO)  |
+     |:-----------          |:----------------:|:----------------:|:----------------:|
+     | OSTrack(-384)        |  0.711   |   0.839  |   0.737  |     
+     | SimTrack(-L/14)      |  0.705   |   0.834  |   0.698  | 
+     | SwinTrack(-B-384)    |  0.702   |   0.840  |   0.694* | 
+
 # Light-weight Backbone
 
 * **MobileNet:**
