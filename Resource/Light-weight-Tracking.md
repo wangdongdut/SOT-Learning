@@ -15,9 +15,9 @@
 
      | Tracker              | LaSOT (AUC)   | TrackingNet (AUC) | GOT-10K (AO)  |
      |:-----------          |:----------------:|:----------------:|:----------------:|
-     | HCAT                 |  |  |  |        
-     | E.T.Track            |  |  |  |      
-     | FEAR                 |  |  |  |  
+     | HCAT                 | 59.1  | 76.6 | 65.3 |        
+     | E.T.Track            | 59.1  | 70.6 | - |      
+     | FEAR                 | 57.9 | - | 64.5 |  
      | STARK-Lightning      |  |  |  |  
      | LightTrack           |  |  |  |     
      | ECO-HC               |  |  |  |  
