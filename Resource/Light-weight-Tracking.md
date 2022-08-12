@@ -31,7 +31,7 @@
   * **MobileNetV3:** Andrew Howard, Mark Sandler, Grace Chu, Liang-Chieh Chen, Bo Chen, Mingxing Tan, Weijun Wang, Yukun Zhu, Ruoming Pang, Vijay Vasudevan, Quoc V. Le, Hartwig Adam. Searching for MobileNetV3. ICCV, 2019. [[Paper](https://arxiv.org/pdf/1905.02244.pdf)]
 * **ShuffleNet:**
   * Xiangyu Zhang, Xinyu Zhou, Mengxiao Lin, Jian Sun. ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices. CVPR, 2018. [[Paper](https://arxiv.org/pdf/1707.01083.pdf)] 
-  * XXXX
+  * Ningning Ma, Xiangyu Zhang, Hai-Tao Zheng, Jian Sun. ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design. ECCV, 2018. [[Paper](https://arxiv.org/pdf/1807.11164.pdf)] 
 * **LeViT:** Benjamin Graham, Alaaeldin El-Nouby, Hugo Touvron, Pierre Stock, Armand Joulin, Hervé Jégou, Matthijs Douze. LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference. ICCV, 2021. [[Paper](https://arxiv.org/pdf/2104.01136.pdf)][[Code](https://github.com/apple/ml-cvnets)]
 *  **LVT:** Chenglin Yang, Yilin Wang, Jianming Zhang, He Zhang, Zijun Wei, Zhe Lin, Alan Yuille. Lite Vision Transformer with Enhanced Self-Attention. CVPR, 2022. [[Paper](https://arxiv.org/pdf/2112.10809.pdf)][[Code](https://github.com/Chenglin-Yang/LVT)] 
 * **Mobile-Former:** Yinpeng Chen, Xiyang Dai, Dongdong Chen, Mengchen Liu, Xiaoyi Dong, Lu Yuan, Zicheng Liu. Mobile-Former: Bridging MobileNet and Transformer. CVPR, 2022. [[Paper](https://arxiv.org/pdf/2108.05895.pdf)][[Code](https://github.com/apple/ml-cvnets)] 
