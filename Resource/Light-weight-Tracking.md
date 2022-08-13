@@ -46,3 +46,4 @@
 # Reference
 * **Ultimate-Awesome-Transformer-Attention:** https://github.com/cmhungsteve/Awesome-Transformer-Attention
 * **Efficient-AI-Backbones:** https://github.com/huawei-noah/Efficient-AI-Backbones
+* **轻量级网络综述—主干网络篇:** https://mp.weixin.qq.com/s/-LAfyLA3U4C27thFlRgDhw
