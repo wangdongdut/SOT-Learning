@@ -23,15 +23,8 @@
      | ECO-HC               | 32.4 | 55.4 | 31.6 |  
      | SiamFC               | - | - | - | 
 
-# Light-weight Backbone
+# Light-weight Transformer Backbone
 
-* **MobileNet:**
-  * **MobileNetV1:** Andrew G. Howard, Menglong Zhu, Bo Chen, Dmitry Kalenichenko, Weijun Wang, Tobias Weyand, Marco Andreetto, Hartwig Adam. MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications. Arxiv, 2017. [[Paper](https://arxiv.org/pdf/1704.04861.pdf)]
-  * **MobileNetV2:** Mark Sandler, Andrew Howard, Menglong Zhu, Andrey Zhmoginov, Liang-Chieh Chen. MobileNetV2: Inverted Residuals and Linear Bottlenecks. CVPR, 2018. [[Paper](https://arxiv.org/pdf/1801.04381.pdf)]
-  * **MobileNetV3:** Andrew Howard, Mark Sandler, Grace Chu, Liang-Chieh Chen, Bo Chen, Mingxing Tan, Weijun Wang, Yukun Zhu, Ruoming Pang, Vijay Vasudevan, Quoc V. Le, Hartwig Adam. Searching for MobileNetV3. ICCV, 2019. [[Paper](https://arxiv.org/pdf/1905.02244.pdf)]
-* **ShuffleNet:**
-  * Xiangyu Zhang, Xinyu Zhou, Mengxiao Lin, Jian Sun. ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices. CVPR, 2018. [[Paper](https://arxiv.org/pdf/1707.01083.pdf)] 
-  * Ningning Ma, Xiangyu Zhang, Hai-Tao Zheng, Jian Sun. ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design. ECCV, 2018. [[Paper](https://arxiv.org/pdf/1807.11164.pdf)] 
 * **LeViT:** Benjamin Graham, Alaaeldin El-Nouby, Hugo Touvron, Pierre Stock, Armand Joulin, Hervé Jégou, Matthijs Douze. LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference. ICCV, 2021. [[Paper](https://arxiv.org/pdf/2104.01136.pdf)][[Code](https://github.com/apple/ml-cvnets)]
 *  **LVT:** Chenglin Yang, Yilin Wang, Jianming Zhang, He Zhang, Zijun Wei, Zhe Lin, Alan Yuille. Lite Vision Transformer with Enhanced Self-Attention. CVPR, 2022. [[Paper](https://arxiv.org/pdf/2112.10809.pdf)][[Code](https://github.com/Chenglin-Yang/LVT)] 
 * **Mobile-Former:** Yinpeng Chen, Xiyang Dai, Dongdong Chen, Mengchen Liu, Xiaoyi Dong, Lu Yuan, Zicheng Liu. Mobile-Former: Bridging MobileNet and Transformer. CVPR, 2022. [[Paper](https://arxiv.org/pdf/2108.05895.pdf)][[Code](https://github.com/apple/ml-cvnets)] 
@@ -42,6 +35,16 @@
 * **TinyViT:**  Kan Wu, Jinnian Zhang, Houwen Peng, Mengchen Liu, Bin Xiao, Jianlong Fu, Lu Yuan. TinyViT: Fast Pretraining Distillation for Small Vision Transformers. ECCV, 2022. [[Paper](https://arxiv.org/pdf/2207.10666.pdf)][[Code](https://github.com/microsoft/Cream/tree/main/TinyViT)]
 * **LightViT:** Tao Huang, Lang Huang, Shan You, Fei Wang, Chen Qian, Chang Xu. LightViT: Towards Light-Weight Convolution-Free Vision Transformers. Arxiv, 2022. [[Paper](https://arxiv.org/pdf/2207.05557.pdf)][[Code](https://github.com/hunto/LightViT)] 
 * **ParC-Net:**  Haokui Zhang, Wenze Hu, Xiaoyu Wang. ParC-Net: Position Aware Circular Convolution with Merits from ConvNets and Transformer. ECCV, 2022. [[Paper](https://arxiv.org/pdf/2203.03952v5.pdf)][[Code](https://github.com/hkzhang91/ParC-Net)] 
+
+# Light-weight CNN Backbone
+
+* **MobileNet:**
+  * **MobileNetV1:** Andrew G. Howard, Menglong Zhu, Bo Chen, Dmitry Kalenichenko, Weijun Wang, Tobias Weyand, Marco Andreetto, Hartwig Adam. MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications. Arxiv, 2017. [[Paper](https://arxiv.org/pdf/1704.04861.pdf)]
+  * **MobileNetV2:** Mark Sandler, Andrew Howard, Menglong Zhu, Andrey Zhmoginov, Liang-Chieh Chen. MobileNetV2: Inverted Residuals and Linear Bottlenecks. CVPR, 2018. [[Paper](https://arxiv.org/pdf/1801.04381.pdf)]
+  * **MobileNetV3:** Andrew Howard, Mark Sandler, Grace Chu, Liang-Chieh Chen, Bo Chen, Mingxing Tan, Weijun Wang, Yukun Zhu, Ruoming Pang, Vijay Vasudevan, Quoc V. Le, Hartwig Adam. Searching for MobileNetV3. ICCV, 2019. [[Paper](https://arxiv.org/pdf/1905.02244.pdf)]
+* **ShuffleNet:**
+  * Xiangyu Zhang, Xinyu Zhou, Mengxiao Lin, Jian Sun. ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices. CVPR, 2018. [[Paper](https://arxiv.org/pdf/1707.01083.pdf)] 
+  * Ningning Ma, Xiangyu Zhang, Hai-Tao Zheng, Jian Sun. ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design. ECCV, 2018. [[Paper](https://arxiv.org/pdf/1807.11164.pdf)] 
 
 # Reference
 * **Ultimate-Awesome-Transformer-Attention:** https://github.com/cmhungsteve/Awesome-Transformer-Attention
