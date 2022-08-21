@@ -1,4 +1,4 @@
-*  **SOTA Performance：**
+*  **VOT-SOTA：**
     * LaSOT：https://paperswithcode.com/sota/visual-object-tracking-on-lasot
     * TrackingNet：
       * http://eval.tracking-net.org/featured-challenges/39/leaderboard/42
