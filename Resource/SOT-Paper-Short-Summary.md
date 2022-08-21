@@ -6,8 +6,7 @@
     * Got-10K：http://got-10k.aitestunion.com/leaderboard
     * OTB：https://paperswithcode.com/sota/visual-object-tracking-on-otb-2015
 
-* **顶会/刊SOT算法速览**
-  * **历年视觉三大会（CVPR，ICCV，ECCV），其他会议/期刊/Workshop上部分论文**
+* **顶会/刊SOT算法速览：历年视觉三大会（CVPR，ICCV，ECCV），其他会议/期刊/Workshop上部分论文**
 
     
 
