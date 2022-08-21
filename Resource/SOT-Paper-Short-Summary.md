@@ -1,4 +1,4 @@
-*   * **SOTA Performance：**
+*  **SOTA Performance：**
     * LaSOT：https://paperswithcode.com/sota/visual-object-tracking-on-lasot
     * TrackingNet：
     * Got-10K：
