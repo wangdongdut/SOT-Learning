@@ -3,7 +3,7 @@
     * TrackingNet：
       * http://eval.tracking-net.org/featured-challenges/39/leaderboard/42
       * https://paperswithcode.com/sota/visual-object-tracking-on-trackingnet
-    * Got-10K：
+    * Got-10K：http://got-10k.aitestunion.com/leaderboard
     * OTB：https://paperswithcode.com/sota/visual-object-tracking-on-otb-2015
 
 * **顶会/刊SOT算法速览**
