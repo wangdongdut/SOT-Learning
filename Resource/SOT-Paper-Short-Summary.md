@@ -8,13 +8,8 @@
 
 * **顶会/刊SOT算法速览：历年视觉三大会（CVPR，ICCV，ECCV），其他会议/期刊/Workshop上部分论文**
   
-  * **2021年-2025年：**
-
-    | **来源**              | **官方/知名缩写**     | **题目/链接/代码/Bibtex**    | **简介**    |
-    |:-----------           |:----------------|:----------------|:----------------|
-    | ECCV2022| Unicorn | Towards Grand Unification of Object Tracking </br> [[Paper]()][[Code]()][[Bibtex]()]|
-    | | | |
+  * **[2021年-2025年](https://github.com/wangdongdut/SOT-Learning/blob/main/Resource/SOT-Papers/SOT-Papers-2021-2025.md)**
   
-  * **2016年-2020年：**
+  * **[2016年-2020年](https://github.com/wangdongdut/SOT-Learning/blob/main/Resource/SOT-Papers/SOT-Papers-2016-2020.md)**
   
-  * **2016年前：**
+  * **[1981年-2016年](https://github.com/wangdongdut/SOT-Learning/blob/main/Resource/SOT-Papers/SOT-Papers-1981-2016.md)**
