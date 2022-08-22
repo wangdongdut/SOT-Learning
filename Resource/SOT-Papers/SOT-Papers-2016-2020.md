@@ -6,4 +6,4 @@
     | | | |
     | | | |
     | | | |
-    | CVPR2022 |  | Transforming Model Prediction for Tracking  </br> [[Paper]()][[Code]()][[Bibtex]()] |
+    | CVPR2022 |ToMP  | Transforming Model Prediction for Tracking  </br> [[Paper]()][[Code]()][[Bibtex]()] |
