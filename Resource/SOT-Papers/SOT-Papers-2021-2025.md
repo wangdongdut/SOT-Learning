@@ -6,4 +6,5 @@
     | | | |
     | | | |
     | | | |
-    | CVPR2022 |ToMP  | Transforming Model Prediction for Tracking  </br> [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Mayer_Transforming_Model_Prediction_for_Tracking_CVPR_2022_paper.html)][[Code](https://github.com/visionml/pytracking)] |
+    | CVPR2022 | ToMP | Transforming Model Prediction for Tracking  </br> [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Mayer_Transforming_Model_Prediction_for_Tracking_CVPR_2022_paper.html)][[Code](https://github.com/visionml/pytracking)] | |
+    | CVPR2022| ULAST | Unsupervised Learning of Accurate Siamese Tracking </br> [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Shen_Unsupervised_Learning_of_Accurate_Siamese_Tracking_CVPR_2022_paper.html)][[Code](https://github.com/FlorinShum/ULAST)] |  |
