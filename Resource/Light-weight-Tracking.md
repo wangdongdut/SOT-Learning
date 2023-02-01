@@ -23,6 +23,8 @@
      | ECO-HC               | 32.4 | 55.4 | 31.6 |  
      | SiamFC               | - | - | - | 
 
+<!-- 
+
 # Light-weight Transformer Backbone
 
 * **DeLighT:** Sachin Mehta, Marjan Ghazvininejad, Srinivasan Iyer, Luke Zettlemoyer, Hannaneh Hajishirzi. DeLighT: Deep and Light-weight Transformer. ICLR, 2021. 
@@ -56,3 +58,5 @@
 * **Efficient-AI-Backbones:** https://github.com/huawei-noah/Efficient-AI-Backbones
 * **轻量级网络综述—主干网络篇:** https://mp.weixin.qq.com/s/-LAfyLA3U4C27thFlRgDhw
 * **Efficient Transformers: A Survey** https://arxiv.org/abs/2009.06732
+
+-->
