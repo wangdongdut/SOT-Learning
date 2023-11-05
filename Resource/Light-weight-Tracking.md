@@ -7,7 +7,8 @@
 * **FEAR:** Vasyl Borsuk, Roman Vei, Orest Kupyn, Tetiana Martyniuk, Igor Krashenyi, Jiři Matas. FEAR: Fast, Efficient, Accurate and Robust Visual Tracker. ECCV, 2022. [[Paper](https://arxiv.org/pdf/2112.07957.pdf)][[Code](https://github.com/PinataFarms/FEARTracker)] 
 * **HCAT:** Xin Chen, Dong Wang, Dongdong Li, Huchuan Lu. Efficient Visual Tracking via Hierarchical Cross-Attention Transformer. ECCVW, 2022. [[Paper](https://arxiv.org/pdf/2203.13537.pdf)][[Code](https://github.com/chenxin-dlut/HCAT)] 
 * **E.T.Track:** Philippe Blatter, Menelaos Kanakis, Martin Danelljan, Luc Van Gool. Efficient Visual Tracking with Exemplar Transformers. WACV, 2023. [[Paper](https://arxiv.org/pdf/2112.09686.pdf)][[Code](https://github.com/pblatter/ettrack)] 
-* **HiT:** 
+* **HiT:** Ben Kang, Xin Chen, Dong Wang, Houwen Peng, Huchuan Lu. Exploring Lightweight Hierarchical Vision Transformers for Efficient Visual Tracking. ICCV, 2023. [[Paper](https://arxiv.org/abs/2308.06904)][[Code](https://github.com/kangben258/HiT)]
+ 
 * **Others:** 
   * **NanoTrack:** https://github.com/HonglinChu/SiamTrackers/tree/master/NanoTrack
   * **让视觉目标跟踪在移动端起飞[YaqiLYU]：** [[一](https://zhuanlan.zhihu.com/p/416413600)], [[二](https://zhuanlan.zhihu.com/p/416754498)], [[三](https://zhuanlan.zhihu.com/p/419900331)]
